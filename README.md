@@ -1,6 +1,10 @@
 <!-- BANNER -->
 
+<<<<<<< HEAD
 <p align="center" width="100%" height="200">
+=======
+<p align="center" width="100%" height="35">
+>>>>>>> d14560aab5c4597ec3173881c8cb143cd1657d1d
   <img src="./Images/banner.jpg" alt="Banner" />
 </p>
 
@@ -67,6 +71,11 @@
 <a href="https://git-scm.com/">
     <img height="50" width="50" src="file:///C:/Users/Usuario/Downloads/mongodb-svgrepo-com.svg" alt="MongoDB" />
   </a>­­
+  
+<a href="https://www.mongodb.com/">
+    <img height="50" width="50" src="./Images/MongoDB.svg" alt="MongoDB" />
+  </a>
+  
 ­­
 ­­­
 </p>

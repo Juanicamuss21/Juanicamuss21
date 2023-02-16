@@ -65,7 +65,7 @@
   </a>­­
   
 <a href="https://www.mongodb.com/">
-    <img height="50" width="50" src="file:///C:/Users/Usuario/Downloads/mongodb-svgrepo-com.svg" alt="MongoDB" />
+    <img height="50" width="50" src="./Images/MongoDB.svg" alt="MongoDB" />
   </a>
   
 ­­

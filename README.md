@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center" width="100%">
-  <img src="./Images/banner.png" alt="Banner" />
+  <img src="./Images/banner.jpg" alt="Banner" />
 </p>
 
 <!-- TITLE -->

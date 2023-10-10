@@ -1,12 +1,8 @@
 <!-- BANNER -->
 
-<<<<<<< HEAD
-<p align="center" width="100%" height="200">
-=======
-<p align="center" width="100%" height="35">
->>>>>>> d14560aab5c4597ec3173881c8cb143cd1657d1d
-  <img src="./Images/banner.jpg" alt="Banner" />
-</p>
+<div align="center" >
+  <img src="./Images/Banner Linkedin.png" alt="Banner" width="100%" height="250"/>
+</div>
 
 <!-- TITLE -->
 

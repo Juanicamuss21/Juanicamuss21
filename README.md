@@ -64,10 +64,6 @@
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
   </a>
   
-<a href="https://git-scm.com/">
-    <img height="50" width="50" src="file:///C:/Users/Usuario/Downloads/mongodb-svgrepo-com.svg" alt="MongoDB" />
-  </a>­­
-  
 <a href="https://www.mongodb.com/">
     <img height="50" width="50" src="./Images/MongoDB.svg" alt="MongoDB" />
   </a>
